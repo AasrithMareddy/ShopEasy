@@ -118,6 +118,13 @@ On launch, users are greeted with a **Signup/Login screen** featuring:
 
 ---
 
+## Demo & Presentation
+
+You can watch the full demo and presentation of **ShopEasy** here: 
+[Watch on Google Photos](https://photos.app.goo.gl/kLqCjX4zED6hpnYJ7)
+
+> The video covers the full ShopEasy flow — login, browsing, search, cart, redirection, and admin panel usage.
+
 
 
 
