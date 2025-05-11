@@ -75,7 +75,7 @@ On launch, users are greeted with a **Signup/Login screen** featuring:
   - Adjust quantity
   - Remove items
 - Displays **Total Price**
-- **Checkout** redirects to vendor's page
+- **Visit Merchant** redirects to vendor's page
 
 >  Cart data is saved under the user’s Firestore profile for persistence.
 
