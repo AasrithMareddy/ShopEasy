@@ -7,6 +7,7 @@
 ##  App Screens & Flow
 
 ###  1. Login Screen
+![Login Screen](images/login.png)
 
 On launch, users are greeted with a **Signup/Login screen** featuring:
 - ShopEasy logo
@@ -22,6 +23,7 @@ On launch, users are greeted with a **Signup/Login screen** featuring:
 ---
 
 ### 2. Home / Browse Screen
+![Home Screen](images/home.png)
 
 - Displays a feed of **product listings** from multiple vendors.
 - **Search bar** at the top.
@@ -34,6 +36,7 @@ On launch, users are greeted with a **Signup/Login screen** featuring:
 ---
 
 ### 3. Search Functionality
+![Search Screen](images/search.png)
 
 - A dedicated **Search Screen** allows users to:
   - Enter keywords
@@ -48,6 +51,7 @@ On launch, users are greeted with a **Signup/Login screen** featuring:
 ---
 
 ### 4. Product Detail Screen
+![Product Detail](images/detail.png)
 
 - Displays:
   - Larger product image
@@ -63,6 +67,7 @@ On launch, users are greeted with a **Signup/Login screen** featuring:
 ---
 
 ### 5. Cart Screen
+![Cart Screen](images/cart.png)
 
 - Lists all added items with:
   - Name, price, quantity, subtotal
@@ -77,6 +82,7 @@ On launch, users are greeted with a **Signup/Login screen** featuring:
 ---
 
 ### 6. Vendor Redirection
+![Vendor Redirection](images/redirection.png)
 
 - At checkout, the app opens the **vendor’s online store**.
 - Uses SafariView or similar browser integration.
@@ -86,6 +92,7 @@ On launch, users are greeted with a **Signup/Login screen** featuring:
 ---
 
 ## Admin Panel
+![Admin Panel](images/admin.png)
 
 - Restricted to users with an **admin email ID**.
 - Allows uploading of **mock product data** to Firebase.
@@ -110,10 +117,10 @@ On launch, users are greeted with a **Signup/Login screen** featuring:
   - ViewModels interact only with this manager (clean MVVM design).
 
 ---
-![Login Screen](images/login.png)
-![Home Screen](images/home.png)
-![Search Screen](images/search.png)
-![Product Detail](images/detail.png)
-![Cart Screen](images/cart.png)
-![Vendor Redirection](images/redirection.png)
-![Admin Panel](images/admin.png)
+
+
+
+
+
+
+
